@@ -11,6 +11,7 @@ def join_ingredients(src)
     ['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']
     ]
     
+    return "I love element1 and element2 on my pizza" 
     
 
 end
