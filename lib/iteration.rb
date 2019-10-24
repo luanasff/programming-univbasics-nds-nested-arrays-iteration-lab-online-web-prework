@@ -45,6 +45,13 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   
+  outer_results = []
+  row_index = 0
+  while row_index < src.count do
+    outer_results.push(src[row_index].max)
+    row_index += 1
+  end
+  p outer_results
   
   
   
