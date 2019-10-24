@@ -8,7 +8,7 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
   
   join_ingredients =[
-    [""]
+    
     
     
     
