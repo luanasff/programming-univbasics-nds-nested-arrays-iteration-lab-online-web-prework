@@ -60,6 +60,9 @@ src[row_index].count do
 row_index += 1
 end
 p total 
+end
+
+
    
   
   
