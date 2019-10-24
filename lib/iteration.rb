@@ -59,7 +59,7 @@ src[row_index].count do
  end 
 row_index += 1
 end
-total 
+p total 
    
   
   
